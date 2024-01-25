@@ -1,4 +1,4 @@
-package LAB2;
+package LAB2.DesignPatternCode;
 
 public class FactoryPatternDemo {
     public static void main(String[] args) {

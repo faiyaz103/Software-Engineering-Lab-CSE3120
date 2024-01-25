@@ -1,4 +1,4 @@
-package LAB2;
+package LAB2.DesignPatternCode;
 
 public class EagerInitializedSingleton {
     private static final EagerInitializedSingleton instance = new EagerInitializedSingleton();
