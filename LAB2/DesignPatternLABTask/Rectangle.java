@@ -1,4 +1,4 @@
-package LAB2.DesignPatternCode;
+package LAB2.DesignPatternLABTask;
 
 public class Rectangle implements Shape{
     public void draw(){
